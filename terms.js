@@ -8,7 +8,7 @@ module.exports.terms = ['Javascript',
 'reactjs',
 'angularjs',
 'model-view-controller',
-'Java',
+'Java_(programming_language)',
 'C#',
 'http',
 'https',
@@ -25,8 +25,8 @@ module.exports.terms = ['Javascript',
 'data science',
 'Immutable_object',
 'Object_(computer_science)',
-'Array_data_type'
-'Computer_virus',
+'Array_data_type',
+'Computer_virus'
 
 
 

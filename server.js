@@ -11,6 +11,14 @@ termList.terms.forEach((term)=>{
   request('https://www.wikipedia.org/wiki/' + term, (err, res, body)=>{
     if (err) throw err;
 
+    if (term.includes('_')){
+      term = term.replace(/_/g, ' ');
+    };
+
+    if (term.includes('(')){
+      term = term.replace(/\(.*\)/,"");
+    };
+
     $ = cheerio.load(body);
     //console.log($('div.mw-parser-output > p').first().html())
     const definition = $('div.mw-parser-output > p').first().text();
