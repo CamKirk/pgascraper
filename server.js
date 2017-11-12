@@ -21,7 +21,12 @@ termList.terms.forEach((term)=>{
 
     $ = cheerio.load(body);
     //console.log($('div.mw-parser-output > p').first().html())
-    const definition = $('div.mw-parser-output > p').first().text();
+    let definition = $('div.mw-parser-output > p').first().text();
+
+    if (definition.includes('[')){
+      definition = definition.replace(/\[.*\]/g,"");
+    };
+
     const output = {[term] : definition};
     scrapedArray.push(output);
     if (scrapedArray.length == termList.terms.length){

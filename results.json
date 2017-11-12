@@ -1,0 +1,158 @@
+[
+	{
+		"Dynamic programming language": "Dynamic programming language, in computer science, is a class of high-level programming languages which, at runtime, execute many common programming behaviors that static programming languages perform during compilation. These behaviors could include extension of the program, by adding new code, by extending objects and definitions, or by modifying the type system. Although similar behaviours can be emulated in nearly any language, with varying degrees of difficulty, complexity and performance costs, dynamic languages provide direct tools to make use of them. Many of these features were first implemented as native features in the Lisp programming language."
+	},
+	{
+		"JQuery": "jQuery is a cross-platform JavaScript library designed to simplify the client-side scripting of HTML."
+	},
+	{
+		"C#": "C is the third letter in the English alphabet and a letter of the alphabets of many other writing systems which inherited it from the Latin alphabet. It is also the third letter of the ISO basic Latin alphabet. It is named cee (pronounced /siː/) in English."
+	},
+	{
+		"High-level programming language": "In computer science, a high-level programming language is a programming language with strong abstraction from the details of the computer. In comparison to low-level programming languages, it may use natural language elements, be easier to use, or may automate (or even hide entirely) significant areas of computing systems (e.g. memory management), making the process of developing a program simpler and more understandable relative to a lower-level language. The amount of abstraction provided defines how \"high-level\" a programming language is."
+	},
+	{
+		"Prototype-based programming": "Prototype-based programming is a style of object-oriented programming in which behaviour reuse (known as inheritance) is performed via a process of reusing existing objects via delegation that serve as prototypes. This model can also be known as prototypal, prototype-oriented, classless, or instance-based programming. Delegation is the language feature that supports prototype-based programming."
+	},
+	{
+		"Cascading Style Sheets": "Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language."
+	},
+	{
+		"Relational database management system": "A relational database management system (RDBMS) is a database management system (DBMS) that is based on the relational model invented by Edgar F. Codd, of IBM's San Jose Research Laboratory. As of 2017, many of the databases in widespread use are based on the relational database model."
+	},
+	{
+		"Javascript": "JavaScript (/ˈdʒɑːvəˌskrɪpt/), often abbreviated as JS, is a high-level, dynamic, weakly typed, prototype-based, multi-paradigm, and interpreted programming language. Alongside HTML and CSS, JavaScript is one of the three core technologies of World Wide Web content production. It is used to make webpages interactive and provide online programs, including video games. The majority of websites employ it, and all modern web browsers support it without the need for plug-ins by means of a built-in JavaScript engine. Each of the many JavaScript engines represent a different implementation of JavaScript, all based on the ECMAScript specification, with some engines not supporting the spec fully, and with many engines supporting additional features beyond ECMA."
+	},
+	{
+		"HTML": "Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS) and JavaScript it forms a triad of cornerstone technologies for the World Wide Web. Web browsers receive HTML documents from a web server or from local storage and render them into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document."
+	},
+	{
+		"Java ": "Java is a general-purpose computer programming language that is concurrent, class-based, object-oriented, Java was originally developed by James Gosling at Sun Microsystems (which has since been acquired by Oracle Corporation) and released in 1995 as a core component of Sun Microsystems' Java platform. The language derives much of its syntax from C and C++, but it has fewer low-level facilities than either of them."
+	},
+	{
+		"MySQL": "MySQL (officially pronounced as /maɪ ˌɛskjuːˈɛl/ \"My S-Q-L\", For proprietary use, several paid editions are available, and offer additional functionality."
+	},
+	{
+		"Server ": "In computing, a server is a computer program or a device that provides functionality for other programs or devices, called \"clients\". This architecture is called the client–server model, and a single overall computation is distributed across multiple processes or devices. Servers can provide various functionalities, often called \"services\", such as sharing data or resources among multiple clients, or performing computation for a client. A single server can serve multiple clients, and a single client can use multiple servers. A client process may run on the same device or may connect over a network to a server on a different device."
+	},
+	{
+		"Express.js": "Express.js, or simply Express, is a web application framework for Node.js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs."
+	},
+	{
+		"R ": "R is an open source programming language and software environment for statistical computing and graphics that is supported by the R Foundation for Statistical Computing."
+	},
+	{
+		"Computer virus": "A computer virus is a type of malicious software program (\"malware\") that, when executed, replicates itself by modifying other computer programs and inserting its own code."
+	},
+	{
+		"Node.js": "Node.js is an open-source, cross-platform JavaScript run-time environment for executing JavaScript code server-side. Historically, JavaScript was used primarily for client-side scripting, in which scripts written in JavaScript are embedded in a webpage's HTML, to be run client-side by a JavaScript engine in the user's web browser. Node.js enables JavaScript to be used for server-side scripting, and runs scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. Consequently, Node.js has become one of the foundational elements of the \"JavaScript everywhere\" paradigm, allowing web application development to unify around a single programming language, rather than rely on a different language for writing server side scripts."
+	},
+	{
+		"Ember.js": "Ember.js is an open-source JavaScript web framework, based on the Model–view–viewmodel (MVVM) pattern. It allows developers to create scalable single-page web applications by incorporating common idioms and best practices into the framework."
+	},
+	{
+		"Hacker News": "Hacker News is a social news website focusing on computer science and entrepreneurship. It is run by Paul Graham's investment fund and startup incubator, Y Combinator. In general, content that can be submitted is defined as \"anything that gratifies one's intellectual curiosity\"."
+	},
+	{
+		"TechCrunch": "TechCrunch is an American online publisher of technology industry news. It primarily covers the business side of tech, reporting breaking tech news, bold opinions on new products, thorough analysis of emerging trends in tech, and regular profiling of popular new tech businesses, from early stage startups to publicly traded companies. Notable journalists and contributors include, Mike Butcher, Alexia Tsotsis, Michael Arington. The website is owned by Oath Inc."
+	},
+	{
+		"Npm ": "npm is a package manager for the JavaScript programming language. It is the default package manager for the JavaScript runtime environment Node.js. It consists of a command line client, also called npm, and an online database of public and paid-for private packages, called the npm registry. The registry is accessed via the client, and the available packages can be browsed and searched via the npm website. The package manager and the registry are managed by npm, Inc."
+	},
+	{
+		"Hackathon": "A hackathon (also known as a hack day, hackfest or codefest) is a design sprint-like event in which computer programmers and others involved in software development, including graphic designers, interface designers, project managers, and others, often including subject-matter-experts, collaborate intensively on software projects."
+	},
+	{
+		"Secure Shell": "Secure Shell (SSH) is a cryptographic network protocol for operating network services securely over an unsecured network. The best known example application is for remote login to computer systems by users."
+	},
+	{
+		"Lodash": "Lodash is a JavaScript library which provides utility functions for common programming tasks using the functional programming paradigm."
+	},
+	{
+		"Github": "GitHub is a Web-based Git version control repository hosting service. It is mostly used for computer code. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project."
+	},
+	{
+		"Visual Studio Code": "Visual Studio Code is a source code editor developed by Microsoft for Windows, Linux and macOS. It includes support for debugging, embedded Git control, syntax highlighting, intelligent code completion, snippets, and code refactoring. It is also customizable, so users can change the editor's theme, keyboard shortcuts, and preferences. It is free and open-source,"
+	},
+	{
+		"Array data type": "in computer science, an array type is a data type that is meant to describe a collection of elements (values or variables), each selected by one or more indices (identifying keys) that can be computed at run time by the program. Such a collection is usually called an array variable, array value, or simply array. By analogy with the mathematical concepts of vector and matrix, array types with one and two indices are often called vector type and matrix type, respectively."
+	},
+	{
+		"Atom ": "Atom is a free and open-source"
+	},
+	{
+		"Emacs": "Emacs /ˈiːmæks/ is a family of text editors that are characterized by their extensibility.."
+	},
+	{
+		"Webpack": "Webpack is an open-source JavaScript module bundler. Webpack takes modules with dependencies and generates static assets representing those modules."
+	},
+	{
+		"Arduino": "Arduino is an open source computer hardware and software company, project, and user community that designs and manufactures single-board microcontrollers and microcontroller kits for building digital devices and interactive objects that can sense and control objects in the physical world. The project's products are distributed as open-source hardware and software, which are licensed under the GNU Lesser General Public License (LGPL) or the GNU General Public License (GPL), permitting the manufacture of Arduino boards and software distribution by anyone. Arduino boards are available commercially in preassembled form, or as do-it-yourself (DIY) kits."
+	},
+	{
+		"Meteor ": "Meteor, or MeteorJS, is a free and open-source isomorphic JavaScript web framework written using Node.js. Meteor allows for rapid prototyping and produces cross-platform (Android, iOS, Web) code. It integrates with MongoDB and uses the Distributed Data Protocol and a publish–subscribe pattern to automatically propagate data changes to clients without requiring the developer to write any synchronization code. On the client, Meteor can be used with its own Blaze templating engine, as well as with the Angular framework or React library."
+	},
+	{
+		"model-view-controller": "Model–view–controller (MVC) is a software architectural pattern for implementing user interfaces on computers. It divides a given application into three interconnected parts. This is done to separate internal representations of information from the ways information is presented to, and accepted from, the user. The MVC design pattern decouples these major components allowing for efficient code reuse and parallel development."
+	},
+	{
+		"angularjs": "AngularJS (commonly referred to as \"Angular.js\" or \"AngularJS 1.X\") is a JavaScript-based open-source front-end web application framework mainly maintained by Google and by a community of individuals and corporations to address many of the challenges encountered in developing single-page applications. The JavaScript components complement Apache Cordova, the framework used for developing cross-platform mobile apps. It aims to simplify both the development and the testing of such applications by providing a framework for client-side model–view–controller (MVC) and model–view–viewmodel (MVVM) architectures, along with components commonly used in rich Internet applications. In 2014, the original AngularJS team began working on Angular (Application Platform)."
+	},
+	{
+		"https": "HTTPS (also called HTTP over Transport Layer Security ) is a communications protocol for secure communication over a computer network which is widely used on the Internet. HTTPS consists of communication over Hypertext Transfer Protocol (HTTP) within a connection encrypted by Transport Layer Security, or its predecessor, Secure Sockets Layer. The main motivation for HTTPS is authentication of the visited website and protection of the privacy and integrity of the exchanged data."
+	},
+	{
+		"mongodb": "MongoDB (from humongous) is a free and open-source cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with schemas. MongoDB is developed by MongoDB Inc., and is published under a combination of the GNU Affero General Public License and the Apache License."
+	},
+	{
+		"Medium ": "Medium is an online publishing platform developed by Evan Williams, and launched in August 2012. It is owned by A Medium Corporation. and is regularly regarded as a blog host."
+	},
+	{
+		"Vim ": "Vim (/vɪm/;"
+	},
+	{
+		"Immutable object": "In object-oriented and functional programming, an immutable object (unchangeable This is in contrast to a mutable object (changeable object), which can be modified after it is created. In some cases, an object is considered immutable even if some internally used attributes change but the object's state appears to be unchanging from an external point of view. For example, an object that uses memoization to cache the results of expensive computations could still be considered an immutable object."
+	},
+	{
+		"reactjs": "In computing, React (sometimes styled React.js or ReactJS) is a JavaScript library for building user interfaces."
+	},
+	{
+		"Object ": "In computer science, an object can be a variable, a data structure, a function, or a method, and as such, is a location in memory having a value and referenced by an identifier."
+	},
+	{
+		"json": "In computing, JavaScript Object Notation or JSON (/ˈdʒeɪsən/ JAY-sən),"
+	},
+	{
+		"http": "The Hypertext Transfer Protocol (HTTP) is an application protocol for distributed, collaborative, and hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web."
+	},
+	{
+		"object-oriented programming": "Object-oriented programming (OOP) is a programming paradigm based on the concept of \"objects\", which may contain data, in the form of fields, often known as attributes; and code, in the form of procedures, often known as methods. A feature of objects is that an object's procedures can access and often modify the data fields of the object with which they are associated (objects have a notion of \"this\" or \"self\"). In OOP, computer programs are designed by making them out of objects that interact with one another. There is significant diversity of OOP languages, but the most popular ones are class-based, meaning that objects are instances of classes, which typically also determine their type."
+	},
+	{
+		"ASP.NET": "ASP.NET is an open-source server-side web application framework designed for web development to produce dynamic web pages. It was developed by Microsoft to allow programmers to build dynamic web sites, web applications and web services."
+	},
+	{
+		"Git": "Git (/ɡɪt/"
+	},
+	{
+		"Ubuntu ": "Ubuntu (/ʊˈbʊntuː/; stylized as ubuntu) is an open source operating system for computers. It is a Linux distribution based on the Debian architecture. It is usually run on personal computers, and is also popular on network servers, usually running the Ubuntu Server variant, with enterprise-class features. Ubuntu runs on the most popular architectures, including Intel, AMD, and ARM-based machines. Ubuntu is also available for tablets and smartphones, with the Ubuntu Touch edition."
+	},
+	{
+		"Open-source model": "The open-source model is a decentralized software development model that encourages open collaboration."
+	},
+	{
+		"functional programming": "In computer science, functional programming is a programming paradigm—a style of building the structure and elements of computer programs—that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data. It is a declarative programming paradigm, which means programming is done with expressions instead of statements. In functional code, the output value of a function depends only on the arguments that are passed to the function, so calling a function f twice with the same value for an argument x produces the same result f(x) each time; this is in contrast to procedures depending on a local or global state, which may produce different results at different times when called with the same arguments but a different program state. Eliminating side effects, i.e., changes in state that do not depend on the function inputs, can make it much easier to understand and predict the behavior of a program, which is one of the key motivations for the development of functional programming."
+	},
+	{
+		"imperative programming": "In computer science, imperative programming is a programming paradigm that uses statements that change a program's state. In much the same way that the imperative mood in natural languages expresses commands, an imperative program consists of commands for the computer to perform. Imperative programming focuses on describing how a program operates."
+	},
+	{
+		"internet": "The Internet is the global system of interconnected computer networks that use the Internet protocol suite (TCP/IP) to link devices worldwide. It is a network of networks that consists of private, public, academic, business, and government networks of local to global scope, linked by a broad array of electronic, wireless, and optical networking technologies. The Internet carries a vast range of information resources and services, such as the inter-linked hypertext documents and applications of the World Wide Web (WWW), electronic mail, telephony, and file sharing."
+	},
+	{
+		"data science": "Data science, also known as data-driven science, is an interdisciplinary field about scientific methods, processes, and systems to extract knowledge or insights from data in various forms, either structured or unstructured, similar to data mining."
+	},
+	{
+		"TypeScript": "TypeScript is a free and open-source programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript, and adds optional static typing to the language. Anders Hejlsberg, lead architect of C# and creator of Delphi and Turbo Pascal, has worked on the development of TypeScript. TypeScript may be used to develop JavaScript applications for client-side or server-side (Node.js) execution."
+	}
+]
