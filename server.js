@@ -3,7 +3,7 @@ const termList = require('./terms.js');
 const fs = require('fs');
 const request = require('request');
 
-let scrapedArray = [];
+let scrapedObject = {};
 
 
 
@@ -27,10 +27,10 @@ termList.terms.forEach((term)=>{
       definition = definition.replace(/\[.*\]/g,"");
     };
 
-    const output = {[term] : definition};
-    scrapedArray.push(output);
-    if (scrapedArray.length == termList.terms.length){
-      fs.appendFile('results.json', JSON.stringify(scrapedArray,null,'\t'), (err)=>{
+     scrapedObject[term] = definition;
+     
+    if (Object.keys(scrapedObject).length == termList.terms.length){
+      fs.appendFile('results.json', JSON.stringify(scrapedObject,null,'\t'), (err)=>{
       console.log('appended file');
     })
     }
